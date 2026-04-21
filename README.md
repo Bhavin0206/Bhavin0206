@@ -1,12 +1,14 @@
 # 👋 Hi, I'm Bhavin J. Padhariya
-### 🚀 Full Stack Engineer | Node.js | React.js | Next.js  
+### 🚀 Full Stack Engineer | Building Scalable Systems | Node.js | React.js | Next.js  
+⚡ I build scalable systems and solve real production problems.
+
 ---
 
 ## 💫 About Me
 
 I’m a Full Stack Engineer with 4+ years of experience building scalable, high-performance web applications. I specialize in backend optimization, distributed systems, and asynchronous workflows.
 
-I have improved API performance by up to **80%**, built and optimized systems handling **millions of records efficiently**, and solved real production issues involving **Docker, Redis, Nginx, caching, and query optimization**.
+I have improved API performance by up to **80%**, designed and optimized systems handling **millions of records efficiently**, and solved real production issues involving **Docker, Redis, Nginx, caching, and query optimization**.
 
 I enjoy building reliable products, optimizing performance, and solving complex engineering problems in real-world production environments.
 
@@ -22,7 +24,7 @@ Property review platform where users can add reviews for properties and agencies
 - Resolved **Nginx load balancing issues** in a **multi-container Docker setup**  
 - Implemented **role-based authentication system (RBAC)**  
 
-👉 https://www.allagents.co.uk/
+👉 [Live Demo](https://www.allagents.co.uk/)
 
 ---
 
@@ -32,7 +34,7 @@ Digital business card platform powered by **NFC + QR technology**.
 - Users can share profiles via **tap, QR, or link**  
 - Built scalable backend and user-friendly frontend  
 
-👉 https://infibitecards.com/
+👉 [Live Demo](https://infibitecards.com/)
 
 ---
 
@@ -42,7 +44,7 @@ IoT agriculture data platform for large-scale data processing.
 - Developed APIs and dashboards for analytics  
 - Focused on structured and reliable data processing  
 
-👉 https://kisancloud.com/
+👉 [Live Demo](https://kisancloud.com/)
 
 ---
 
@@ -52,7 +54,7 @@ Digital portfolio platform for actors and casting professionals.
 - Simplifies casting workflows with a single shareable profile  
 - Replaces scattered file sharing with structured presentation  
 
-👉 https://www.vshowcards.com/
+👉 [Live Demo](https://www.vshowcards.com/)
 
 ---
 
@@ -87,7 +89,7 @@ Digital portfolio platform for actors and casting professionals.
 ## 📈 Impact
 
 - 🚀 Improved API performance by **80%**  
-- ⚡ Built and optimized systems handling **millions of records**  
+- ⚡ Designed and optimized systems handling **millions of records**  
 - 🔧 Solved production issues related to **Nginx, Docker, Redis, and backend stability**  
 - 📉 Reduced bottlenecks using **query optimization and caching strategies**  
 - 🌐 Built scalable systems for real-world high-traffic environments  
@@ -108,8 +110,8 @@ Digital portfolio platform for actors and casting professionals.
 
 📧 Email: bhavinpadhariya0206@gmail.com  
 💻 GitHub: https://github.com/Bhavin0206  
-💼 LinkedIn: (Add your LinkedIn link here)  
-🌐 Portfolio: (Add your portfolio link here)  
+💼 LinkedIn: https://linkedin.com/in/your-link  
+🌐 Portfolio: https://www.bhavinpadhariya.com/
 
 ---
 
