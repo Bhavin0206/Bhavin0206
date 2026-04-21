@@ -29,6 +29,14 @@ I enjoy building reliable products, optimizing performance, and solving complex 
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+## 📈 Impact
+
+- 🚀 Improved API performance by **80%**
+- ⚡ Worked on async and scalable systems handling **millions of records**
+- 🔧 Solved production issues related to **Nginx, Docker, Redis, and backend stability**
+- 📉 Reduced bottlenecks through **query optimization, caching, and architecture improvements**
+- 🌐 Built and optimized systems for real-world, high-traffic environments
+  
 ## 💡 What I Solve
 
 - Scaling backend systems for high traffic
