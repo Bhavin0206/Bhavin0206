@@ -28,3 +28,11 @@ I enjoy building reliable products, optimizing performance, and solving complex 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+## 💡 What I Solve
+
+- Scaling backend systems for high traffic
+- Optimizing slow APIs and database queries
+- Designing async workflows and background processing
+- Debugging production issues in distributed environments
+- Building maintainable and high-performance full stack applications
