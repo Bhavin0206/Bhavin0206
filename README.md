@@ -1,15 +1,100 @@
-# 💫 About Me:
-I am a Full Stack Engineer with over 4 years of experience building scalable and high-performance web applications. I specialize in modern JavaScript technologies including Node.js, React.js, and Next.js, with a strong focus on backend optimization and system design.<br><br>Throughout my career, I have worked on performance-critical systems, improving API response times by up to 80% and designing asynchronous data pipelines capable of handling millions of records efficiently. I have hands-on experience with Redis caching, microservices architecture, and distributed systems, enabling applications to perform reliably under high traffic conditions.<br><br>I enjoy solving complex backend challenges, optimizing database performance, and building systems that are both scalable and maintainable. My work also includes implementing secure authentication systems such as JWT-based RBAC for multi-tenant applications.<br><br>I have contributed across the full development lifecycle—designing APIs, building responsive frontends, and deploying applications using Docker, AWS, and CI/CD pipelines.
+# 👋 Hi, I'm Bhavin J. Padhariya
 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Bhavin0206&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Bhavin0206&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Bhavin0206&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🚀 Full Stack Engineer | Node.js | React.js | Next.js  
+📍 Pune, India | Open to Remote Opportunities  
 
 ---
-[![](https://komarev.com/ghpvc/?username=Bhavin0206&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+I’m a Full Stack Engineer with 4+ years of experience building scalable, high-performance web applications. I specialize in backend optimization, distributed systems, and designing asynchronous workflows.
+
+I have improved API performance by up to **80%**, handled **millions of records**, and worked on production systems using **Docker, Redis, and AWS SQS**.
+
+I enjoy solving real-world engineering problems — from debugging complex production issues to building systems that scale reliably.
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 AllAgents Platform (Production System)
+- Developed full-stack features using **Next.js, React, and Laravel**  
+- Optimized backend performance by fixing **N+1 query issues** and implementing caching strategies  
+- Resolved critical production issues like **Nginx load balancing failures** and improved API stability  
+- Worked on a **multi-container Docker architecture** for scalability  
+- Implemented **role-based authentication system (RBAC)**  
+
+👉 Tech: Next.js, React.js, Laravel, Docker, Redis, AWS, MySQL  
+
+---
+
+### 🔹 Infibite Cards (Digital Business Card Platform)
+- Built a smart digital business card system using **NFC + QR technology**  
+- Enabled instant profile sharing via tap, QR, or link — replacing traditional visiting cards  
+- Designed scalable backend APIs and responsive frontend for seamless user experience  
+- Developed real-time profile access system for high concurrent usage  
+
+👉 Live: https://infibitecards.com/  
+👉 Tech: Node.js, Express, MongoDB, React  
+
+---
+
+### 🔹 Kisan Cloud (IoT Agriculture Data Platform)
+- Built a data ingestion system processing **millions of IoT sensor records daily**  
+- Developed APIs and dashboards for real-time agricultural insights  
+- Improved data reliability using validation and normalization pipelines  
+
+👉 Live: https://kisancloud.com/  
+👉 Tech: Laravel, React, MySQL  
+
+---
+
+### 🔹 VShowCards (Digital Portfolio Platform for Actors)
+- Developed a centralized digital portfolio platform for actors and casting professionals  
+- Enabled actors to showcase profiles, photos, and videos in a single shareable link  
+- Simplified casting workflows by replacing scattered file sharing with structured profiles  
+
+👉 Live: https://www.vshowcards.com/  
+👉 Tech: Node.js, React, MongoDB  
+
+---
+
+## 📈 Impact
+
+- 🚀 Improved API performance by **80%**  
+- ⚡ Built async systems handling **millions of records**  
+- 📉 Reduced backend bottlenecks using query optimization and caching  
+- 🔧 Resolved real-world production issues (Docker, Nginx, Redis)  
+- 🌐 Delivered scalable systems under high traffic conditions  
+
+---
+
+## 💡 What I Solve
+
+- Scaling backend systems for high traffic  
+- Optimizing slow APIs and database queries  
+- Designing async workflows using queues and background jobs  
+- Debugging production issues in distributed environments  
+- Building maintainable and high-performance architectures  
+
+---
+
+## 💻 Tech Stack
+
+**Backend:** Node.js, Express.js, Laravel  
+**Frontend:** React.js, Next.js  
+**Databases:** MySQL, MongoDB, Redis  
+**DevOps & Tools:** Docker, AWS, CI/CD, Git, Linux, Nginx  
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: bhavinpadhariya0206@gmail.com  
+💼 LinkedIn: (Add your link here)  
+💻 GitHub: https://github.com/Bhavin0206  
+🌐 Portfolio: (Add your portfolio link here)  
+
+---
+
+⭐ *I’m always open to exciting opportunities and challenging problems in backend and full stack development.*
