@@ -110,7 +110,6 @@ Digital portfolio platform for actors and casting professionals.
 
 📧 Email: bhavinpadhariya0206@gmail.com  
 💻 GitHub: https://github.com/Bhavin0206  
-💼 LinkedIn: https://linkedin.com/in/your-link  
 🌐 Portfolio: https://www.bhavinpadhariya.com/
 
 ---
